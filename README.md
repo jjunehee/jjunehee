@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Android(Java) 
 - 📫 How to reach me Gmail Badge
-<img src="https://img.shields.io/badge/{Android}-{green}?style={plastic}&logo={Android}&logoColor={3DDC84}"/>
+<img src="https://img.shields.io/badge/Android-{green}?style={plastic}&logo={Android}&logoColor={3DDC84}"/>
 
 
 <!--
