@@ -1,8 +1,8 @@
 ### Hi there, I'm JunHee Cho! 👋
 
-- 🌱 I’m currently learning Android(Java) 
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Android-{green}?style={plastic}&logo={Android}&logoColor={3DDC84}"/>
 - 📫 How to reach me Gmail Badge
-<img src="https://img.shields.io/badge/Android-{green}?style={plastic}&logo={Android}&logoColor={3DDC84}"/>
+
 
 
 <!--
