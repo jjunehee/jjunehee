@@ -1,7 +1,13 @@
 ### Hi there, I'm JunHee Cho! 👋
 
 - 🌱 I’m currently learning   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-- 📫 How to reach me Gmail Badge
+- 📫 How to reach me <a href="mailto:jjhjjh1159@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjhjjh1159@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]]
 
 
 
