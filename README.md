@@ -1,6 +1,6 @@
 ### Hi there, I'm JunHee Cho! 👋
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+- 🌱 I’m currently learning   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 - 📫 How to reach me Gmail Badge
 
 
