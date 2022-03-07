@@ -1,6 +1,6 @@
 ### Hi there, I'm JunHee Cho! 👋
 
-🌱 I’m currently learning JS, React
+🌱 I’m currently learning Android(Java) ...
 📫 How to reach me Gmail Badge
 
 
