@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm JunHee Cho! 👋
+
+🌱 I’m currently learning JS, React
+📫 How to reach me Gmail Badge
+
 
 <!--
 **jjunehee/jjunehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
