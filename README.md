@@ -7,8 +7,6 @@ src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logo
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]]
-
 
 
 
