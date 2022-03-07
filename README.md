@@ -1,7 +1,7 @@
 ### Hi there, I'm JunHee Cho! 👋
 
-🌱 I’m currently learning Android(Java) ...
-📫 How to reach me Gmail Badge
+- 🌱 I’m currently learning Android(Java) ...
+- 📫 How to reach me Gmail Badge
 
 
 <!--
