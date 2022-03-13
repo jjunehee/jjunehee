@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunehee&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunehee&show_icons=true&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunehee&layout=compact&theme=dark)
 
