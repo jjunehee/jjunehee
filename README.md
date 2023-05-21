@@ -1,6 +1,6 @@
 ### Hi there, This is jjunehee! 👋
 
-- 🌱 I’m currently learning   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/IoT-3776AB.svg?&style=flat-square&logo=IoT&logoColor=White"/>
+- 🌱 I’m currently learning   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/IoT-3776AB.svg?&style=flat-square&logo=Web&logoColor=White"/>
 - 📫 How to reach me <a href="mailto:jjhjjh1159@gmail.com">
 <img
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjhjjh1159@gmail.com"
