@@ -1,27 +1,33 @@
-### Hi there, This is jjunehee! 👋
 
-- 🌱 I’m currently learning   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-- 📫 How to reach me <a href="mailto:jjhjjh1159@gmail.com">
-<img
-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjhjjh1159@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+I'm  Cho Junhee, a growing developer. 🌱 <br>
+I want to be a person who makes people more comfortable. ✨
+</p>
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-JPA-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-green"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Redis-red"/>&nbsp
+  <img src="https://img.shields.io/badge/Kafka-black"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Nginx-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Jenkins-purple"/>&nbsp
+  <img src="https://img.shields.io/badge/-AWS-gray"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-orange"/>&nbsp
+</p>
 
+<h3 align="center">•••</h3>
 
-
-<!--
-**jjunehee/jjunehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://velog.io/@jjhjjh1159"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjhjjh1159"/></a>&nbsp
+  <a href="mailto:jjhjjh1159@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjhjjh1159@gmail.com"/></a>
+  
+</p>
 
