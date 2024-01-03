@@ -22,9 +22,7 @@ I want to be a person who makes people more comfortable. ✨
   <img src="https://img.shields.io/badge/-AWS-gray"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-orange"/>&nbsp
 </p>
-
-<h3 align="center">•••</h3>
-
+<h2 align="center">•••</h2>
 <p align="center">
   <a href="https://velog.io/@jjhjjh1159"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjhjjh1159"/></a>&nbsp
   <a href="mailto:jjhjjh1159@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjhjjh1159@gmail.com"/></a>
