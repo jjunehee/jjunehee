@@ -21,6 +21,8 @@ I want to be a person who makes people more comfortable. ✨
   <img src="https://img.shields.io/badge/-Jenkins-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-gray"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-orange"/>&nbsp
+  <br><br>
+  <img src="https://github.com/jjunehee/jjunehee/assets/83155528/90c07328-d432-418e-8ba5-b1040144ac48" width="150" height="150"/>&nbsp
 </p>
 <h3 align="center">•••</h2>
 <p align="center">
