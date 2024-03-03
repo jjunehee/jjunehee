@@ -1,7 +1,6 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm  Cho Junhee, a growing developer. 🌱 <br>
 I want to be a person who makes people more comfortable. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
