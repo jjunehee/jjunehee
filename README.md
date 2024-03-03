@@ -1,9 +1,9 @@
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h4 align="center"> 👋 Hi there 👋 </h4>
 <p align="center">
 I want to be a person who makes people more comfortable. ✨
 </p>
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h4 align="center">📚 Technology Stack 📚</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
