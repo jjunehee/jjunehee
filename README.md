@@ -22,6 +22,8 @@ I want to be a developer who makes people more comfortable. ✨
   <img src="https://img.shields.io/badge/-Git-orange"/>&nbsp
   <br><br>
   <img src="https://github.com/jjunehee/jjunehee/assets/83155528/90c07328-d432-418e-8ba5-b1040144ac48" width="150" height="150"/>&nbsp
-  <img src="https://github.com/jjunehee/jjunehee/assets/83155528/e54d5601-ae21-4fd4-803a-817cac1c0367" width="150" height="150"/>&nbsp
+  <img src="https://github.com/jjunehee/jjunehee/assets/83155528/cd5ab248-579d-40d6-a664-3d460fc56092" width="200" height="150"/>&nbsp
+
+  
 </p>
 
