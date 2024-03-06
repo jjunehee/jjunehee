@@ -1,7 +1,7 @@
 
 <h4 align="center"> 👋 Hi there 👋 </h4>
 <p align="center">
-I want to be a person who makes people more comfortable. ✨
+I want to be a developer who makes people more comfortable. ✨
 </p>
 <h4 align="center">📚 Technology Stack 📚</h4>
 <p align="center">
